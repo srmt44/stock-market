@@ -1,0 +1,15 @@
+model:
+1 lstm
+
+hyper params:
+lstm out -> 50
+history -> 20 days
+batch size -> 32
+metric -> mae
+
+result:
+dataset -> femli (2)
+train -> 100 epochs
+loss -> 0.073
+
+-----------------------------------------------------------------------------------------
