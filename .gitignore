@@ -2,7 +2,7 @@
 multi_variate_RNN_LSTM.ipynb
 data/raw(utf-8)
 logs
-temp.py
+a_temp.py
 
 blacklist/*
 stocks_and_markets/*
