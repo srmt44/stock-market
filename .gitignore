@@ -10,3 +10,5 @@ markets/*
 prepared_data/*
 stocks/*
 empty_markets/*
+all_records/*
+checkpoints/*
